@@ -25,7 +25,7 @@
         };
 }());
 
-app.factory('RAF', function(){
+angular.module('requestAnimationFrame').factory('rAF', function(){
     var stack = {};
 
     var start = function(animName, callback){
