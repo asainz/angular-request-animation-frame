@@ -1,0 +1,24 @@
+{
+  "name": "Angular Request Animation Frame",
+  "version": "0.1.0",
+  "authors": [
+    "Andres Sainz de Aja (andressainz@gmail.com)"
+  ],
+  "description": "An angular factory useful to handle different rAF instances",
+  "main": "src/raf.js",
+  "keywords": [
+    "angular",
+    "request",
+    "animation",
+    "frame",
+    "raf"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
